@@ -2,8 +2,8 @@
 
 _Last updated: 2025-11-10_
 
-Simple Notes 98 is designed to keep your information on your device. This policy explains what data the extension accesses, how i
-s stored, and the limited circumstances under which it may be removed.
+Simple Notes 98 is designed to keep your information on your device. This policy explains what data the extension accesses, how it
+is stored, and the limited circumstances under which it may be removed.
 
 ## Data the extension processes
 - **Notes, folders, and drawings** that you create inside the popup or floating overlay.
@@ -11,8 +11,7 @@ s stored, and the limited circumstances under which it may be removed.
 - **Extension preferences** such as overlay visibility, default docking position, window size, and drawing tool settings.
 - **Keyboard shortcuts** that you configure through the Chrome Extensions shortcuts page.
 
-No other personal data is accessed. Simple Notes 98 does not read or collect data from the webpages you visit beyond the text you e
-xplicitly send using the context menu capture feature.
+No other personal data is accessed. Simple Notes 98 does not read or collect data from the webpages you visit beyond the text you explicitly send using the context menu capture feature.
 
 ## Where data is stored
 All data is stored locally using the Chrome Extensions `chrome.storage.local` API. The extension does not use remote databases,
@@ -32,3 +31,4 @@ You can delete notes, folders, images, and drawings at any time from within the 
  clearing `chrome.storage.local` will permanently erase all stored information.
 
 If you have questions about privacy or need assistance with data removal, please open an issue in the project repository.
+
